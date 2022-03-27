@@ -21,4 +21,6 @@ A generator that dynamically produces an HTML portfolio page from the command li
 
 ## Preview
 
+## Contribution
+
 Made with ❤️ by Kelsey Alderman
